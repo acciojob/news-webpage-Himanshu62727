@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-body, h1, h2, ul, li {
+body, h1, h2, ul, li, p{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -23,6 +23,19 @@ body {
     padding: 20px;
     width: 80%;
     margin: 20px auto;
+}
+
+
+.main {
+	background-color: white;
+    padding: 20px;
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.main p {
+	text-align: center;
 }
 
 .latest-news-section h2 {
